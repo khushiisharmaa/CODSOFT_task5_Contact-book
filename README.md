@@ -14,7 +14,7 @@ The Interactive Contact Book is a simple Python program that allows users to man
 
 1. Clone the repository to your local machine.
    ```sh
-   git clone https://github.com/your-username/Interactive-Contact-Book.git
+   git clone https://github.com/khushiisharmaa/CODSOFT_task5_Contact-book.git
 
 2. Navigate to the project directory.
 
